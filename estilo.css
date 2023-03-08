@@ -1,0 +1,46 @@
+#perfil{
+border:10px;
+margin-top: 30px;
+border-radius: 50%;
+
+}
+h2{
+    color:#000000;
+   
+}
+button{
+margin-bottom:20px;
+width: 100px;
+height:30px;
+background-color:#2f2f2f;
+border:2px;
+border-radius: 10px;
+color:#ffffff;
+}
+button:hover{
+    color:#00abff;
+    background-color:#ffff;
+}
+.Div1{
+display: block;
+background: #ffff;
+border-radius: 20px;
+}
+.sobre{
+display:block;
+    color:#ffffff;
+}
+.sobre h3{
+display:flex;
+flex-position:center;
+}
+.sociais h2{
+color:#ffffff;
+}
+.sociais img{
+padding:10px;
+}
+.redes{
+background-color: #ffffff;
+border-radius:20px;
+}
